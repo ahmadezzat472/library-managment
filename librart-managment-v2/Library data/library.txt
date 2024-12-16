@@ -1,0 +1,6 @@
+1|The Great Gatsby|F. Scott Fitzgerald|Fiction|Available|N/A
+2|1984|George Orwell|Dystopian|Borrowed|2024-12-15
+3|To Kill a Mockingbird|Harper Lee|Classic|Borrowed|2024-12-15
+4|Shehab book|Shehab|Maths|Available|N/A
+5|testt|test|est|Available|N/A
+6|test2|test2 author|test2|Available|N/A

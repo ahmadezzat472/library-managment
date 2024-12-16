@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Level 4\\PL3\\Project\\librart-managment-v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE63AF6-445C-48BF-8046-1EB64DD4D062}|librart-managment-v2\\librart-managment-v2.fsproj|e:\\level 4\\pl3\\project\\librart-managment-v2\\librart-managment-v2\\ui.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{ECE63AF6-445C-48BF-8046-1EB64DD4D062}|librart-managment-v2\\librart-managment-v2.fsproj|solutionrelative:librart-managment-v2\\ui.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE63AF6-445C-48BF-8046-1EB64DD4D062}|librart-managment-v2\\librart-managment-v2.fsproj|e:\\level 4\\pl3\\project\\librart-managment-v2\\librart-managment-v2\\data.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{ECE63AF6-445C-48BF-8046-1EB64DD4D062}|librart-managment-v2\\librart-managment-v2.fsproj|solutionrelative:librart-managment-v2\\data.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE63AF6-445C-48BF-8046-1EB64DD4D062}|librart-managment-v2\\librart-managment-v2.fsproj|e:\\level 4\\pl3\\project\\librart-managment-v2\\librart-managment-v2\\libraryoperations.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{ECE63AF6-445C-48BF-8046-1EB64DD4D062}|librart-managment-v2\\librart-managment-v2.fsproj|solutionrelative:librart-managment-v2\\libraryoperations.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE63AF6-445C-48BF-8046-1EB64DD4D062}|librart-managment-v2\\librart-managment-v2.fsproj|e:\\level 4\\pl3\\project\\librart-managment-v2\\librart-managment-v2\\library data\\library.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ECE63AF6-445C-48BF-8046-1EB64DD4D062}|librart-managment-v2\\librart-managment-v2.fsproj|solutionrelative:librart-managment-v2\\library data\\library.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "library.txt",
+              "DocumentMoniker": "E:\\Level 4\\PL3\\Project\\librart-managment-v2\\librart-managment-v2\\Library data\\library.txt",
+              "RelativeDocumentMoniker": "librart-managment-v2\\Library data\\library.txt",
+              "ToolTip": "E:\\Level 4\\PL3\\Project\\librart-managment-v2\\librart-managment-v2\\Library data\\library.txt",
+              "RelativeToolTip": "librart-managment-v2\\Library data\\library.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-15T17:39:25.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.fs",
+              "DocumentMoniker": "E:\\Level 4\\PL3\\Project\\librart-managment-v2\\librart-managment-v2\\Data.fs",
+              "RelativeDocumentMoniker": "librart-managment-v2\\Data.fs",
+              "ToolTip": "E:\\Level 4\\PL3\\Project\\librart-managment-v2\\librart-managment-v2\\Data.fs",
+              "RelativeToolTip": "librart-managment-v2\\Data.fs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T21:33:45.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryOperations.fs",
+              "DocumentMoniker": "E:\\Level 4\\PL3\\Project\\librart-managment-v2\\librart-managment-v2\\LibraryOperations.fs",
+              "RelativeDocumentMoniker": "librart-managment-v2\\LibraryOperations.fs",
+              "ToolTip": "E:\\Level 4\\PL3\\Project\\librart-managment-v2\\librart-managment-v2\\LibraryOperations.fs",
+              "RelativeToolTip": "librart-managment-v2\\LibraryOperations.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T21:27:06.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.fs",
+              "DocumentMoniker": "E:\\Level 4\\PL3\\Project\\librart-managment-v2\\librart-managment-v2\\UI.fs",
+              "RelativeDocumentMoniker": "librart-managment-v2\\UI.fs",
+              "ToolTip": "E:\\Level 4\\PL3\\Project\\librart-managment-v2\\librart-managment-v2\\UI.fs",
+              "RelativeToolTip": "librart-managment-v2\\UI.fs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T21:15:30.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

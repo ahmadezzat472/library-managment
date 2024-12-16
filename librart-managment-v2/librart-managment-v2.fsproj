@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<RootNamespace>librart_managment_v2</RootNamespace>
+	</PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Library data\library.txt" />
+    <Compile Include="Data.fs" />
+    <Compile Include="LibraryOperations.fs" />
+    <Compile Include="UI.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Reactive.Windows.Forms" Version="6.0.1" />
+  </ItemGroup>
+
+</Project>
